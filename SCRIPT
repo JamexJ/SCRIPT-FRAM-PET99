@@ -1,0 +1,1 @@
+SCRIPT FRAM PET99: loadstring(game:HttpGet("https://raw.githubusercontent.com/JamexJ/HugeGame.io/main/ps99"))()
